@@ -1,50 +1,51 @@
 # 👋 Hi, I'm Parham Beik  
-
-**Computer Science Student | AI/ML Enthusiast | Finance + Tech Explorer**  
+**Computer Science Student @ IUST | ML & AI Enthusiast | Finance + Tech Explorer**  
 
 🌍 **Based in:** Tehran, Iran  
 🎓 **University:** Iran University of Science and Technology (IUST)  
-💡 **Passion Projects:** AI-driven financial tools, scalable systems, and open-source contributions  
+💡 **Passionate About:** Building AI tools for real-world financial applications  
 
 ---
 
-## 🛠️ **Technical Toolkit**  
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-Proficient-FF6F00?logo=tensorflow)
-![Pandas](https://img.shields.io/badge/Pandas-Proficient-150458?logo=pandas)
+## 🚀 **Technical Skills**  
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Proficient-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Proficient-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Proficient-013243?style=flat&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-**Exploring:** PyTorch, AWS, SQL  
+**Tools & Libraries:** Git, Jupyter, Scikit-learn, Matplotlib/Seaborn  
 
 ---
 
-## 🔥 **Featured Projects**  
+## 🛠️ **Featured Projects**  
 
-| Project | Description | Tech Stack |  
-|---------|-------------|------------|  
-| [🧟 Zombie Game](https://github.com/ParhamBeik/IUSTZ) | OOP-based survival game in C++ | C++, OOP, Makefile |  
-| [📋 Task Manager](https://github.com/123100123/trellomize) | Trello-inspired CLI tool with logging & testing | Python, pytest, encryption |  
-| [⚙️ C++ Compiler](https://github.com/123100123/CPPiler) | Lexer & parser for a C++ subset | Python, CFGs, parsing |  
-| [🎮 WizardWall](https://github.com/SaeedGeshani/WizardWall) | User auth & leaderboard system | Python, data serialization |  
+| Project | Description | Tech Stack | Repo Link |  
+|---------|-------------|------------|-----------|  
+| **🧟 Zombie Survival Game** | OOP-based terminal game with combat mechanics and modular design | C++, OOP, Makefile | [Repo](https://github.com/ParhamBeik/IUSTZ) |  
+| **📋 Trello-Style Task Manager** | CLI tool with logging, encryption, and pytest testing | Python, pytest, JSON | [Repo](https://github.com/123100123/trellomize) |  
+| **⚙️ C++ Subset Compiler** | Lexer, parser, and AST generator for a C++ subset | Python, CFGs, parsing | [Repo](https://github.com/123100123/CPPiler) |  
+| **🎮 WizardWall User System** | Backend auth, game-state saving, and leaderboards | Python, data serialization | [Repo](https://github.com/SaeedGeshani/WizardWall) |  
 
 ---
 
 ## 🌱 **Currently Learning**  
-- Advanced ML algorithms (Transformer models, RL)  
-- Cloud deployment (AWS/GCP)  
-- Financial time-series forecasting  
+- Advanced ML algorithms (neural networks, time-series forecasting)  
+- Model deployment with Flask/Django  
+- Cloud platforms (AWS/GCP)  
 
 ---
 
 ## 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/parham-beik-bab410293)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?logo=gmail)](mailto:parhambeik2183@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/parham-beik-bab410293)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-%23D14836?style=flat&logo=gmail)](mailto:parhambeik2183@gmail.com)  
 
 ---
 
 ## ⚡ **Fun Fact**  
-I’ve been obsessed with finance since I was 14! Now, I’m merging it with AI to build tools like [Your Project Idea Here 😊].  
+I’ve been obsessed with **finance** since I was 14! Now, I’m merging that passion with **machine learning** to build tools like algorithmic trading models and risk predictors.  
 
 ---
 
-**Open Source Contributor | Curious Builder | Lifelong Learner**  
+✨ **Always open to:** Collaborations, internships, and discussions about AI/ML in finance!  
