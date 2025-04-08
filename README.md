@@ -1,68 +1,50 @@
-👋 Hi, I'm Parham Beik
-Computer Science Student @ IUST | AI/ML Enthusiast | Curious About Finance & Tech
+# 👋 Hi, I'm Parham Beik  
 
-🌍 Based in: Tehran, Iran
-💡 Passionate About: Building AI-driven tools for real-world impact, especially in finance.
+**Computer Science Student | AI/ML Enthusiast | Finance + Tech Explorer**  
 
-🚀 Technical Skills
-Python
-C++
-Machine Learning
-Pandas
-NumPy
-SQL
+🌍 **Based in:** Tehran, Iran  
+🎓 **University:** Iran University of Science and Technology (IUST)  
+💡 **Passion Projects:** AI-driven financial tools, scalable systems, and open-source contributions  
 
-Tools: Git, Jupyter, Matplotlib, Scikit-learn
+---
 
-🛠️ Featured Projects
-1. Zombie Survival Game (C++)
-GitHub
+## 🛠️ **Technical Toolkit**  
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-00599C?logo=c%2B%2B&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-Proficient-FF6F00?logo=tensorflow)
+![Pandas](https://img.shields.io/badge/Pandas-Proficient-150458?logo=pandas)
 
-Built a terminal-based game using OOP principles with classes for zombies, humans, and weapons.
+**Exploring:** PyTorch, AWS, SQL  
 
-Features: Attack mechanics, health systems, modular file structure.
+---
 
-Skills: C++, OOP, memory management.
+## 🔥 **Featured Projects**  
 
-2. Trello-Style Task Manager (Python)
-GitHub
+| Project | Description | Tech Stack |  
+|---------|-------------|------------|  
+| [🧟 Zombie Game](https://github.com/ParhamBeik/IUSTZ) | OOP-based survival game in C++ | C++, OOP, Makefile |  
+| [📋 Task Manager](https://github.com/123100123/trellomize) | Trello-inspired CLI tool with logging & testing | Python, pytest, encryption |  
+| [⚙️ C++ Compiler](https://github.com/123100123/CPPiler) | Lexer & parser for a C++ subset | Python, CFGs, parsing |  
+| [🎮 WizardWall](https://github.com/SaeedGeshani/WizardWall) | User auth & leaderboard system | Python, data serialization |  
 
-Developed a CLI tool for team task management with logging, encryption, and pytest testing.
+---
 
-Features: Activity tracking, JSON data persistence.
+## 🌱 **Currently Learning**  
+- Advanced ML algorithms (Transformer models, RL)  
+- Cloud deployment (AWS/GCP)  
+- Financial time-series forecasting  
 
-Skills: Python, pytest, file I/O.
+---
 
-3. C++ Subset Compiler (Python)
-GitHub
+## 📫 **Connect With Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/parham-beik-bab410293)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?logo=gmail)](mailto:parhambeik2183@gmail.com)  
 
-Designed a compiler frontend with lexical analysis, parsing, and syntax tree generation.
+---
 
-Features: Tokenization, error detection, parse tables.
+## ⚡ **Fun Fact**  
+I’ve been obsessed with finance since I was 14! Now, I’m merging it with AI to build tools like [Your Project Idea Here 😊].  
 
-Skills: Compiler design, context-free grammars.
+---
 
-4. WizardWall Game User System (Python)
-GitHub
-
-Implemented user authentication, game-state saving, and leaderboard systems.
-
-Features: Session persistence, score tracking.
-
-Skills: Backend development, data serialization.
-
-🌱 Current Focus
-Advancing my machine learning skills (neural networks, time-series analysis).
-
-Exploring AI applications in finance (algorithmic trading, risk modeling).
-
-Contributing to open-source projects.
-
-📫 Let's Connect!
-📧 Email: parhambeik2183@gmail.com
-💼 LinkedIn: Parham Beik
-
-⚡ Fun Fact
-I’ve been fascinated by finance since I was 14! Now, I’m merging that passion with machine learning to build tools that could democratize financial insights.
-
-✨ P.S. Always open to collaborations, internships, or discussing cool ideas!
+**Open Source Contributor | Curious Builder | Lifelong Learner**  
